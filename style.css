@@ -19,7 +19,7 @@ body{
 	justify-content:center;
 	align-items:center;
 	background:linear-gradient(#0fafff,#0fafff);
-	background-image:url('images/newyear_bg.jpeg');
+	background-image:url('newyear_bg.jpeg');
 	color:#fff;
 	background-size:cover;
 	backdrop-filter:blur(0.5px);
